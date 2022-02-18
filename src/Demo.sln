@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp", "WebApp\WebApp.csproj", "{8E7B3995-3F31-4475-930C-912C398BE8E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{6497A811-7796-470E-B261-2D70E4D257E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{0292EFFB-3517-4BAB-9C7C-9CB9ADCC6E90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7B3995-3F31-4475-930C-912C398BE8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7B3995-3F31-4475-930C-912C398BE8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7B3995-3F31-4475-930C-912C398BE8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7B3995-3F31-4475-930C-912C398BE8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6497A811-7796-470E-B261-2D70E4D257E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6497A811-7796-470E-B261-2D70E4D257E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6497A811-7796-470E-B261-2D70E4D257E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6497A811-7796-470E-B261-2D70E4D257E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0292EFFB-3517-4BAB-9C7C-9CB9ADCC6E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0292EFFB-3517-4BAB-9C7C-9CB9ADCC6E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0292EFFB-3517-4BAB-9C7C-9CB9ADCC6E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0292EFFB-3517-4BAB-9C7C-9CB9ADCC6E90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A66B864-D91C-4FA8-B114-60F82068B70C}
+	EndGlobalSection
+EndGlobal
